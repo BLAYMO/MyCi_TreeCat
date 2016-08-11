@@ -108,9 +108,4 @@ Todo se ha desarrollado con 'corazón' y para ser compartido.
 
 [Mail](expresoweb2015@gmail.com "")
 
-
-Vistas de la aplicación:
-![pantalla_main.png](https://github.com/BLAYMO/MyCi_TreeCat/assets/pantalla_main.png "")
-
-
-![pantalla_main2.png](https://github.com/BLAYMO/MyCi_TreeCat/assets/pantalla_main2.png "") 
+Vistas de la aplicación en /assets/*.png....
