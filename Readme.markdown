@@ -85,6 +85,7 @@ public function index()
 
 Todo se ha desarrollado bajo el 'pattern' HMVC, estando los controladores en la  carpeta '/modules'.
 La instalción es muy sencilla:
+
     - Descargar el zip.
     - Descomprimirlo en la carpeta raiz del servidor web.
     - Configurar database.php con los datos de accesso a mysql.
@@ -102,13 +103,14 @@ Mi profundo reconocimiento a todos los colaboradores de GitHub, sin los cuales s
 Agradezco cualquier sugerencia, comentario y corrección de errores. 
 Ni que decir tiene que el código que he depositado en este repositorio es infinitamente mejorable y optimizable.
 Todo se ha desarrollado con 'corazón' y para ser compartido.
+
 [expresoWeb](https://expresoweb.joomla.com "")
 
 [Mail](expresoweb2015@gmail.com "")
 
 
 Vistas de la aplicación:
-![pantalla_main.png](C:/xampp7/htdocs/MyCi_TreeCat/assets/pantalla_main.png "")
+![pantalla_main.png](https://github.com/BLAYMO/MyCi_TreeCat/assets/pantalla_main.png "")
 
 
-![pantalla_main2.png](C:/xampp7/htdocs/MyCi_TreeCat/assets/pantalla_main2.png "") 
+![pantalla_main2.png](https://github.com/BLAYMO/MyCi_TreeCat/assets/pantalla_main2.png "") 
