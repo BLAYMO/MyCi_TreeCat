@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Carnes",
+        "id": "1",
+        "children": [
+            {
+                "name": "Ternera",
+                "id": "7",
+                "children": [
+                    {
+                        "name": "Ternera asada",
+                        "id": "8",
+                        "children": [
+                            {
+                                "name": "Ternera asada gallega",
+                                "id": "10"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cerdo",
+                "id": "9"
+            }
+        ]
+    },
+    {
+        "name": "Pescados",
+        "id": "2",
+        "children": [
+            {
+                "name": "Pescado blanco",
+                "id": "12"
+            },
+            {
+                "name": "Pescado azul",
+                "id": "13"
+            }
+        ]
+    },
+    {
+        "name": "Arroces",
+        "id": "3"
+    },
+    {
+        "name": "Sopas",
+        "id": "4"
+    },
+    {
+        "name": "Postres",
+        "id": "5"
+    },
+    {
+        "name": "Bebidas",
+        "id": "6"
+    },
+    {
+        "name": "Ensaladas",
+        "id": "11"
+    }
+]
