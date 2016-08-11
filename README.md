@@ -4,7 +4,7 @@ y subcategorías.
 He empleado la libreria jQtree para visualizar el arbol de categorías y Datatables para el mantenimiento de la tabla de categorías
 y subcategorías. El número de subcategorías es ilimitado.
 Básicamente la aplicación lee los datos de la tabla "cat_producto.sql" y los prepara en "data/arbol.json" para presentarlos después en pantalla.
-
+En controller Main, el código que genera el arbol es el siguiente:
 **********************************************************************************************************************
 public function index()
 	{
@@ -82,3 +82,11 @@ public function index()
     }//fin nodo_hijo
     
 **************************************************************************************************************
+Utilizo jQtree para leer el "arbol.json" y presentar en pantalla el árbol de categorías y Datatables para el CRUD de la tabla "cat_productos".
+Todo el codigo realizado se publica bajo licencia MIT. 
+Las librerías de terceros se publican con sus respectivas licencias que figuran en /assets/jQtree ... etc.
+He empleado parte del código generado por https://bitbucket.org/harviacode/codeigniter-crud-generator, para los scripts de mantenimiento de la tabla de categorías.
+
+Agradezco cualquier sugerencia, mejora, detección de errores,...etc.
+expresoweb2015@gmail.com.
+https://expresoweb.joomla.com
